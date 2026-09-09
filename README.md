@@ -4,6 +4,16 @@ Branded software factory built on **OpenHands Agent Canvas** (MIT) + the **[clin
 
 > OpenHands = hands and UI. Skills catalogue = playbooks and guardrails. MCP = the conveyor belt.
 
+
+## Branding
+
+Product name: **Agent Skills Factory** (tagline: Build. Package. Deploy.).
+
+Assets in [`branding/`](./branding/) — use the transparent `icon.png` in UI chrome so it blends on the dark canvas; reserve the full `logo.png` banner for READMEs and splash art. See [docs/branding.md](./docs/branding.md).
+
+UI fork in progress at `~/skill-factory-canvas` (local OpenHands Agent Canvas rebrand).
+
+
 ## Architecture
 
 ```

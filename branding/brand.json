@@ -1,0 +1,21 @@
+{
+  "productName": "Agent Skills Factory",
+  "shortName": "Skills Factory",
+  "tagline": "Build. Package. Deploy.",
+  "primaryColor": "#F5D547",
+  "accentBlue": "#5EC8F0",
+  "background": "#050A18",
+  "uiBackground": "#0b0e14",
+  "assets": {
+    "logo": "logo.png",
+    "icon": "icon.png",
+    "wordmark": "wordmark.png"
+  },
+  "usage": {
+    "faviconAndChips": "icon.png (transparent mascot tile — blends on dark UI)",
+    "headersSplash": "wordmark.png (black plate removed) or logo.png (full banner)",
+    "doNot": "Do not place logo.png black banner on light surfaces without cropping"
+  },
+  "source": "/Users/clint/Downloads/agent-skills-factory.png",
+  "canvasFork": "/Users/clint/skill-factory-canvas"
+}
