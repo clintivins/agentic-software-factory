@@ -1,0 +1,42 @@
+{
+  "productName": "Skill Factory",
+  "shortName": "SkillFactory",
+  "tagline": "Skills-driven agentic software factory powered by OpenHands Agent Canvas",
+  "description": "A white-labelled OpenHands Agent Canvas that orchestrates software work through a skills catalogue over MCP, delivering draft PRs and assessment reports for every task.",
+  "colors": {
+    "primary": "#F5C518",
+    "primaryDark": "#D4A817",
+    "primaryLight": "#FFD54F",
+    "navy": "#0B1B3A",
+    "navyLight": "#1A2F54",
+    "accent": "#4A90E2",
+    "accentLight": "#7FB2F0",
+    "background": "#F8F9FA",
+    "text": "#0B1B3A",
+    "textSecondary": "#6C757D"
+  },
+  "replaceStrings": {
+    "OpenHands Agent Canvas": "Skill Factory",
+    "OpenHands": "Skill Factory",
+    "Agent Canvas": "Skill Factory",
+    "openhands": "skillfactory",
+    "@openhands/agent-canvas": "@skillfactory/canvas"
+  },
+  "logo": {
+    "path": "branding/logo.png",
+    "description": "Yellow cartoon character with book - mascot for skills-driven development",
+    "alt": "Skill Factory Logo"
+  },
+  "links": {
+    "homepage": "https://github.com/clintivins/agentic-software-factory",
+    "skillsCatalogue": "https://github.com/clintivins/skills",
+    "canvas": "https://github.com/clintivins/skill-factory-canvas",
+    "upstreamOpenHands": "https://docs.openhands.dev/openhands/usage/agent-canvas/setup"
+  },
+  "upstream": {
+    "project": "OpenHands Agent Canvas",
+    "license": "MIT",
+    "repository": "https://github.com/OpenHands/OpenHands",
+    "notice": "Skill Factory is a white-label fork of OpenHands Agent Canvas (MIT licensed). OpenHands and Agent Canvas are trademarks of the OpenHands project. This fork respects MIT licensing and does not claim endorsement by or affiliation with the OpenHands project."
+  }
+}

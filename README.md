@@ -48,13 +48,29 @@ Smoke-test prompt:
 
 > Search my skills catalogue for kubernetes hardening, then summarize the top skill procedure outline.
 
+## Branded UI (Skill Factory)
+
+This repository includes a **branding pack** for white-labelling OpenHands Agent Canvas as **Skill Factory**:
+
+| Resource | Description |
+|----------|-------------|
+| [`branding/brand.json`](./branding/brand.json) | Product name, colors, tagline, logo path, upstream attribution |
+| [`branding/README.md`](./branding/README.md) | Branding pack overview and asset inventory |
+| [`docs/rebrand-openhands.md`](./docs/rebrand-openhands.md) | Step-by-step guide to fork and rebrand Canvas |
+| [`scripts/apply-branding-checklist.md`](./scripts/apply-branding-checklist.md) | Verification checklist for all branding touchpoints |
+
+**Skill Factory Canvas UI** will be hosted in a sibling repository: [clintivins/skill-factory-canvas](https://github.com/clintivins/skill-factory-canvas) (planned).
+
+The branding respects the MIT license, attributes OpenHands, and avoids trademark infringement. See the branding pack for details on colors, logos, and string replacements.
+
 ## Repo layout
 
 | Path | Purpose |
 |------|---------|
+| `branding/` | Skill Factory branding pack (logo, colors, rebrand guide) |
 | `docs/` | Architecture and runbooks |
 | `config/` | OpenHands / MCP example configs |
-| `scripts/` | Start helpers |
+| `scripts/` | Start helpers and branding checklist |
 | `AGENTS.md` | Factory house rules for agents |
 
 ## Related
