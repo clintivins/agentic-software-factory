@@ -25,7 +25,7 @@ Goal / GitHub issue
 
 ## Prerequisites (macOS)
 
-- Node.js **≥ 24** (Agent Canvas 1.17+); `uv` installed
+- Node.js **≥ 24** (Agent Canvas 1.17+); `uv` installed\n  - macOS: `brew install node@24 && brew link --force --overwrite node@24`
 - Python 3.11+ with `clintivins/skills` checked out (or sibling path)
 - GitHub CLI authenticated (`gh auth status`)
 

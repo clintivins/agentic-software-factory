@@ -9,3 +9,4 @@ __pycache__/
 .openhands/
 .idea/
 .vscode/
+.agent-canvas.log
