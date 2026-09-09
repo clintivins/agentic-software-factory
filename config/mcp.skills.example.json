@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "skills": {
+      "command": "/Users/clint/skills/.venv/bin/python",
+      "args": ["-m", "skills_mcp"],
+      "env": {
+        "SKILLS_ROOT": "/Users/clint/skills/skills"
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+# Example OpenHands MCP stanza — adjust paths for your machine.
+[mcp]
+stdio_servers = [
+  {name="skills", command="/Users/clint/skills/.venv/bin/python", args=["-m", "skills_mcp"], env={SKILLS_ROOT="/Users/clint/skills/skills"}}
+]
